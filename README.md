@@ -9,7 +9,7 @@ JokeSnek launches an automated Chrome browser, navigates to a joke website, and 
 🎯 Purpose
 To blend web automation with humor  
 To explore Selenium's browser manipulation capabilities  
-To showcase how real-time data scraping can be used for fun, not just function  
+To showcase how real-time data scraping can be used for fun, not just for function  
 
 
 💡 Use Cases  
@@ -19,6 +19,6 @@ Embed into personal bots or terminal apps for random joke generation
 
 
 🌐 Tech Stack  
-Python 3.13 
+Python 3.13   
 Selenium WebDriver  
 Chrome + ChromeDriver
